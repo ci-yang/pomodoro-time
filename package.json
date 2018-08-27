@@ -1,0 +1,26 @@
+{
+  "name": "pomodoro-time",
+  "version": "1.0.0",
+  "description": "Pomodoro time app with electron",
+  "main": "src/app.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ci-yang/pomodoro-time.git"
+  },
+  "keywords": [
+    "electron",
+    "javascript"
+  ],
+  "author": "Ci Yang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ci-yang/pomodoro-time/issues"
+  },
+  "homepage": "https://github.com/ci-yang/pomodoro-time#readme",
+  "devDependencies": {
+    "electron-prebuilt": "^1.4.13"
+  }
+}
