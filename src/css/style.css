@@ -11,14 +11,15 @@
 }
 
 .pomodoro-time {
-    font-size: 40px;
+    font-size: 30px;
 }
 
 .btn {
     display: block;
     padding: 20px 30px;
+    margin-top: 10px;
     background: rgb(199, 61, 61);
-    font-size: 20px;
+    font-size: 15px;
     color: #fff;
     border-radius: 4px;
 }
